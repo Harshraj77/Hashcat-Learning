@@ -16,6 +16,7 @@ sudo apt update
 ```
 
 Press “Y” to confirm the upgrade of all the listed packages, and wait a few minutes to get them downloaded and installed on your computer.
+
 ![](images/2023-01-23-18-11-59.png)
 
 Now install hashcat :
